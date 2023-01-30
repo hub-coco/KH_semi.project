@@ -25,6 +25,7 @@
   - **API, 라이브러리** - Kakao API(map), Chart.js, Sweetalert2, Owl Carousel, Bootstrap
 - 협업 툴
   - Notion, Git, Github desktop, Sourcetree, ERD Cloud
+- 기능 시연 동영상 : https://youtube.com/watch?v=oI45bV9YOOE&feature=share
   
 # 2. 기획, 관리
 
